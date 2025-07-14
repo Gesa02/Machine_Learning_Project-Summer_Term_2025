@@ -9,8 +9,10 @@ This project focuses on predicting property prices in Florence using real estate
 - tree_models: RandomForests, Gradient Boosting, XGBoost
 
 ## Datasets 
-Created Dataset can be found following the link: https://www.kaggle.com/datasets/gesakluka/cleaned-df-gesa-csv
-Original used Datasets from the Airbnb Website can be found using this link: https://www.kaggle.com/datasets/stegosaurus3000/florence-airbnb-data
+- Created Dataset can be found following the link: https://www.kaggle.com/datasets/gesakluka/cleaned-df-gesa-csv
+- Original used Datasets from the Airbnb Website can be found using this link: https://www.kaggle.com/datasets/stegosaurus3000/florence-airbnb-data
 
 ## Collaborators: 
-Anna Alexandra Kube, Maria Paula Terreros Jimenez, Gesa Klukaschewski
+- Anna Alexandra Kube
+- Maria Paula Terreros Jimenez
+- Gesa Klukaschewski
